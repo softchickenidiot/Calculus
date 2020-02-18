@@ -1,0 +1,3 @@
+﻿  Calculus.cpp
+C:\Users\peyto\source\repos\Calculus\Calculus\Calculus.cpp(39,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Calculus.vcxproj -> C:\Users\peyto\source\repos\Calculus\Debug\Calculus.exe
